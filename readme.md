@@ -19,3 +19,6 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Con flipbox/lumen-generator para agregar mas comandos a php artisan
+Con dusterio/lumen-passport para Usar Laravel Passport
