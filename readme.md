@@ -25,3 +25,6 @@ The Lumen framework is open-sourced software licensed under the [MIT license](ht
 Con flipbox/lumen-generator para agregar mas comandos a php artisan.
 
 Con dusterio/lumen-passport para Usar Laravel Passport
+https://medium.com/omarelgabrys-blog/building-restful-apis-with-lumen-and-oauth2-8ba279c6a31
+https://code.tutsplus.com/es/tutorials/how-to-secure-a-rest-api-with-lumen--cms-27442
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
